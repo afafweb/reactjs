@@ -9,9 +9,8 @@ class MenuHome extends Component{
             <div>
                 <Header/>
                 <br></br>
-                <h1>Selamat Datang di Halaman Utama
-                </h1>
-                    <div className="Image_header">
+                <h1>Selamat Datang di Halaman Utama</h1>
+                    <div className="image_header">
                         <br></br>
                     </div>
             </div>
